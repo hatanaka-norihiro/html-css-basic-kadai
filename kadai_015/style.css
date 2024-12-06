@@ -19,6 +19,6 @@ h1 {
 .pink{
   color: rgb(255, 192, 203);
 }
-.font-weight-bold{
+#basic p {
   font-weight: bold;
 }
